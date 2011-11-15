@@ -1,1 +1,55 @@
-Pr‡cticas de los alumnos de Teor’a de la Informaci—n y Codificaci—n de la Universidad de Malaga
+
+
+
+Practicas de los alumnos de Teoria de la Informacion y Codificacion de la Universidad de Malaga.
+
+
+
+                                                                                                    
+                      `                                                                             
+                    `.-:```.`                                                                       
+                   `:+/::---             ```..`   .:-..`                                            
+                ```-//:////:--`     `.``.oo...`   :h-`+y.   -:..`             `..``.-`              
+              ..-+:+/:///:::--` ``  .+.  /h:-/:   +h/s+-   `yo../             `---::/-.             
+             .-::o+o+/:::.`    .oo:`./-  -ho-`````sy.os-  ``:ss-    -:     `-.-//::://-``           
+            `.::/+++o+++-   .-  `-os++:  `oy/---``//``:+``/:.-h+` `:o.   `` `.--:/:::/:::.`         
+            `-/--::/:///.   :so-`  ./so`  .-://+osssyso+/--.::-` -o+`   `-:.`   `.::/+/+/:-.        
+            `--:://::--...   `/so-`  `.-/oydNNNMMMMMMMMMNNmdyo:.-/-     `:oo-`   -//+/+o//--.       
+         .  `//://::.   `:::.  `/s/.`/sdNMMMMMMMMMMMMMMMMMMMMMNmy:`   ./so:`.-   `.-:/::::/-.       
+       ``/::++///-`` `.--:/+so-``.-sdNMMMMMMMMMMMMMMMMMMMMMMMMMMMNh+-.+o-`        `.-:/:--/:-       
+       -:/:-//+++.   .+ss/::::-`./hNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNd+-`            .-:/:::/-`      
+      `::-:-/:::/:.    .-/:.`  .yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNy:.-:/+:+o:    `-://+/:.--    
+      .::-:-:-:-:.`.:...``.:-`/dMMMMMMMMMMMMMMMMMMMMMMMMMh+ooooshMMMMMMd+.`-sos+`     `///:/:/:--`  
+      `:-:-::::-.  ``...-:-` -mMMMMMMMMMMMMMMMMMMMMMMMMMm/ `so- -dMMMMMMm+`/yo.`      `.://:-://-.  
+     ``:/:/:::-` `--.``  -/`-hMMMMMMMMMMMMMMMMMMMMMNNNNmh.  .`/sdNMMMMMMMd/--         `.--/:---/:.  
+    `:--o+://-`  `:osso+++:`sNMMMMMMMMMMMMMMMMMMNm+--::-`     oNMMMMMMMMMNh. ``  ./-   .--::--::-.  
+   ` .///////-`     `.-::- :dMMMMMMMMMMMMMMMMNmh/`             oMMMMMMMMMMN:`o-`+s.-.   .-:::--:-`  
+   `-//-:+/:::`            -MMMMMMMMMMMMMMMNh:.                +NMMMMMMMMMM/-+:oo- .`    `::///:..` 
+   `:/::::::-:`            :MMMMMMMMMMMNy+:.                  .+NMMMMMMMMMMo.  `         .:::++-//. 
+    ./::::/::-   ```..-:+/ :MMMMMMMMMmh:                    .+mMMMMMMMMMMMMo.            `.:/:://-. 
+    `:::://::`   .:--:sys- -mMMMMMNd/-.                    `smMMMMMMMMMMMMM/`           `..-/:-//:-`
+     `:/::::-`    `/yy/.   `sMMMNs:--yh+`   `-:oho:/::--/osyNMMMMMMMMMMMMMd-`---./+/`   `--:--::::. 
+    .`.+o/-//--`   .--/+++/`-dMMNydNmdo../:smmo:.ohNMMMNNMMMMMMMMMMMMMMMMNs` `+s/+:      .::-:-::-` 
+    --:-:///://-` `/sssoo//` /NMMMMMs-/ymMMMMNdhs-.:hmMMMMMMMMMMMNMNMMMMNs-    .ys-      `-/---:-`  
+   `.-+:--:+::::.  `.`        +mMMMMNNMMMMMMms-.` .-`-hNMMMMMMMMMMMMMMNNy.::`    :/     `.-////.`   
+   .--:/:--:::-:.    ..-:--++.`:mMMMMMMMMMMMMmhyyhmNmyyNMMMMMMMMMMMMMMm+..`.-/:-      .-:+.-o+:-.   
+    .--//--:/:++:.` `..-//os-   -smMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNd/:oyyooo++:    `-::+:--:://`  
+     `.-/+/://:///:-`  `:yo.   `:.-ymMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNd+. ``-:/-`       -:-::---/:::.  
+       .//:/++/:-/:/-` .o/`  `:so- `-sdNMMMMMMMMMMMMMMMMMMMMMMMNmo:.`:-`   `.:-    `./:/----::--.`  
+       `:/--:oo:/::::.  `  `:so:`     `/sdmNMMMMMMMMMMMMMMMMNds+:-  `+oso/-.   `----////-::::--.    
+       `-/-...--:---::.   `/y/       `:/ `-/+syyhhdmmmdhys+///s+-.   .///:+o- `-:::-:://:///-.`     
+      ``--://--......-:.`  `-::.   .::os    `-///:-.``:/` `--.oy.     -/`   ` -::::::so::://`       
+        ``-:----::::::::-.`  `..`-::/:yo   .oo-``-/.  :h.     `/s`    `:.     ------:-----/.        
+           `.-.. `-/:-:+::-.`   `-` `:y+   :m-`   `   -h-       oo.           .-......----:`        
+             `     :+:-//::::.       .o/   -h+.       .y:       ``      `.--.-//:::---::--..        
+                 `:://---:::::......-...    .//-..    `/.            ``.-://--//::::..--.`          
+                 `::::::---:::/:/:::--::-````...-...`    `....``````--::://:::/-....-..`            
+                   `----:/::::////:/:-::::-------.-::-``-------::/:::::-----:/:/-`                  
+                      ``....--:++/::::-:////:::----/::-:::::::::////::-:-::----/-                   
+                            .-..-/::---:::/++//:--::://:::-----:/++:::-::--..``                     
+                               `.-::::::---:/+o:--+++//:::::--:::::/-```                            
+                               ``.....``` `-:/+/+/+/::---:::::----``.`                              
+                                        ..-:-//++++/::.` ``.......`                                 
+                               `.--.`..-:-----.``.-:----.`                                          
+                                 -///.``//:..     `.-----...-::.`                                   
+                                        ...          `--    .-:/`         
